@@ -40,4 +40,5 @@ a {
     font-weight: bold;
     padding: 5px;
     vertical-align: center;
+    box-shadow: 3px 3px black;
 }
